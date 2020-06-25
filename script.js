@@ -25,7 +25,7 @@ function hourTracker() {
     var currentHour = moment().hour();
 
     $(".time-block").each(function () {
-        var blockHour = parseInt($(this).attr("id").split("hour")[1]);
+        var blockHour = parseInt($(this).attr("id").split("hour-")[1]);
         console.log( blockHour, currentHour)
 
         //check if we've moved past this time
