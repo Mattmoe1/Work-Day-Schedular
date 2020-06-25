@@ -8,7 +8,7 @@ The application was to make a simple calendar that kept track of events that go 
 
 
 
-
+<img src= "images/Work%20Day.png" width="800">
 
 
 
