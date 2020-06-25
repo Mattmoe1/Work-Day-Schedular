@@ -1,3 +1,11 @@
+The application was to make a simple calendar that kept track of events that go on in a day to day basis. The calendar keeps track of time and grays the hours that have passed. Red is the current time, and green is the time that is upcoming. Also on the side you have a save button that keeps track of what you have scheduled.
+
+
+
+
+
+
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
